@@ -1,2 +1,4 @@
 # SYSU2023_Graph_Theory_and_Its_Applications
 2023中山大学计算机学院图论及其应用课程资料
+
+授课教师：潘嵘
